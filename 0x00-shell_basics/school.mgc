@@ -1,2 +1,2 @@
 #!/bin/bash
-file -cm OFFSET(School,0)
+file -cm OFFSET(school.mgc,0)
