@@ -1,2 +1,2 @@
 #!/bin/bash
-file -cm /Welcome/to/[:SCHOOL:]
+file -cm OFFSET(School,0)
