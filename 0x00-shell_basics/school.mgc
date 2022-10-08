@@ -1,2 +1,3 @@
-#!/bin/bash
-file -cm OFFSET(school.mgc,0)
+0 string SCHOOL School data
+! :mime School
+
