@@ -1,2 +1,2 @@
 #!/bin/bash
-wcalc -h $DECIMAL
+printf("x%\n" , $DECIMAL)
